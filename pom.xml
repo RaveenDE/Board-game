@@ -12,7 +12,7 @@
 
     <groupId>com.javaproject</groupId>
     <artifactId>database_service_project</artifactId>
-    <version>0.0.8</version> <!-- Updated version -->
+    <version>0.0.9</version> <!-- Updated version -->
     <name>database_service_project</name>
     <description>Project for Spring Boot</description>
     <packaging>jar</packaging>
